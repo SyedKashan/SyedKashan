@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SyedKashan
-- Working @CodeExperts
+- Working @LemFi
 - 7+ years Experience
 <!---
 SyedKashan/SyedKashan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
